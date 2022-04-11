@@ -41,3 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: fondo
+    uniqueID: 3120385839
+    locked: 0
+  - name: bloques
+    uniqueID: 4006053865
+    locked: 0
+  - name: player
+    uniqueID: 1479099193
+    locked: 0
