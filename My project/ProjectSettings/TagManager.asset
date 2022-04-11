@@ -50,6 +50,12 @@ TagManager:
   - name: bloques
     uniqueID: 4006053865
     locked: 0
+  - name: enemies
+    uniqueID: 3404970075
+    locked: 0
   - name: player
     uniqueID: 1479099193
+    locked: 0
+  - name: estructuras por delante del plano
+    uniqueID: 3028312389
     locked: 0
